@@ -1,0 +1,21 @@
+{
+    "name": "daniel-schmitz-angular-extension-pack",
+    "displayName": "Daniel Schmitz Angular Extension Pack",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "Angular.ng-template", 
+        "cyrilletuzi.angular-schematics", 
+        "dbaeumer.vscode-eslint", 
+        "eamodio.gitlens", 
+        "ms-vscode.vscode-typescript-tslint-plugin", 
+        "PKief.material-icon-theme", 
+        "usernamehw.errorlens"
+    ]
+}
