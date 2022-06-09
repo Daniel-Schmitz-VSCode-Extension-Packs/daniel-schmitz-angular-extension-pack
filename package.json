@@ -9,13 +9,17 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "Angular.ng-template", 
-        "cyrilletuzi.angular-schematics", 
-        "dbaeumer.vscode-eslint", 
-        "eamodio.gitlens", 
-        "ms-vscode.vscode-typescript-tslint-plugin", 
-        "PKief.material-icon-theme", 
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Daniel-Schmitz-VSCode-Extension-Packs/daniel-schmitz-angular-extension-pack.git"
+    },
+    "extensionPack": [
+        "Angular.ng-template",
+        "cyrilletuzi.angular-schematics",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "PKief.material-icon-theme",
         "usernamehw.errorlens"
     ]
 }
